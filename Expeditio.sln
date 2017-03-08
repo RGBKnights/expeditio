@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AFAA0841-BD9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8326CDCE-1AB4-4188-96E1-640A068AE3AE}"
 	ProjectSection(SolutionItems) = preProject
+		expeditio-icon.png = expeditio-icon.png
+		expeditio-mascot.png = expeditio-mascot.png
 		global.json = global.json
 	EndProjectSection
 EndProject
